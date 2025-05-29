@@ -1,0 +1,11 @@
+torch==2.0.1
+numpy==1.26.4
+torchvision==0.15.2
+timm==0.9.8
+numpy
+scipy
+tqdm
+matplotlib
+transformers
+pandas
+addict
