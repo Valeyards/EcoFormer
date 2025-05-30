@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ## Issue
 
-Please open new threads or address questions to yuanw@stu.scu.edu.cn
+Please open new threads or address questions to yuanw@stu.scu.edu.cn or xiyue.wang.scu@gmail.com .
 
 ## License
 
